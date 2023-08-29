@@ -2,7 +2,10 @@
 
 ## Typos
 * Main page -> Deadlines -> 3rd paragraph -> non instead of none
-* Main page -> Programming modules -> 'Assignments: Bigger programming problems, that require combining multiple programming concepts.' there should not be a comma
+* Main page -> Programming modules -> 'Assignments: Bigger programming problems, that require combining multiple programming concepts.' there should not be a comma (this is true also elsewhere, i.e. under Coursework)
+* Main page -> Description of modules -> Numbers -> missing full stop at the end
+* Main page -> Description of modules -> Acquisition -> for some reason I can see the links as text and not as hyperlinks
+* 
 
 ## Writing style
 * Main page -> Learning goals -> Data processing -> the bullet points start with 'you' although there's 'you' just before the colon above, so the 'you' on each line should be removed
