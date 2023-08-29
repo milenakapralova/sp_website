@@ -203,20 +203,20 @@ The deadline schedules:
 
 | Level\Pace          | relaxed         | standard        | fast            |
 |---------------------|-----------------|-----------------|-----------------|
-| SP1 - Level 1       | Fri 29 Sep 2023 | Fri 15 Sep 2023 | ??? ?? ??? 2023 |
-| SP1 - Level 2       | Fri 03 Nov 2023 | Fri 29 Sep 2023 | ??? ?? ??? 2023 |
-| SP1 - Level 3       | Fri 08 Dec 2023 | Fri 13 Oct 2023 | ??? ?? ??? 2023 |
+| SP1 - Level 1       | Fri 29 Sep 2023 | Fri 15 Sep 2023 | Mon 11 Sep 2023 |
+| SP1 - Level 2       | Fri 03 Nov 2023 | Fri 29 Sep 2023 | Mon 18 Sep 2023 |
+| SP1 - Level 3       | Fri 08 Dec 2023 | Fri 13 Oct 2023 | Mon 25 Sep 2023 |
 | SP1 - Exam          | Tue 19 Dec 2023 | Mon 23 Oct 2023 | Mon 23 Oct 2023 |
 |---------------------|-----------------|-----------------|-----------------|
-| SP2 - Level 4       | Semester 2      | Fri  2023 | ??? ?? ??? 2023 |
-| SP2 - Level 5       | Semester 2      | ??? ?? ??? 2023 | ??? ?? ??? 2023 |
-| SP2 - Level 6       | Semester 2      | ??? ?? ??? 2023 | ??? ?? ??? 2023 |
+| SP2 - Level 4       | Semester 2      | Fri 03 Nov 2023 | Mon 02 Oct 2023 |
+| SP2 - Level 5       | Semester 2      | Fri 17 Nov 2023 | Mon 09 Oct 2023 |
+| SP2 - Level 6       | Semester 2      | Fri 01 Dec 2023 | Mon 16 Oct 2023 |
 | SP2 - Exam          | Semester 2      | Wed 20 Dec 2023 | Wed 25 Oct 2023 |
 |---------------------|-----------------|-----------------|-----------------|
-| DP  - Level 7       |                 | Semester 2      | ??? ?? ??? 2023 |
-| DP  - Level 8       |                 | Semester 2      | ??? ?? ??? 2023 |
-| DP  - Level 9       |                 | Semester 2      | ??? ?? ??? 2023 |
-| DP  - Level 10      |                 | Semester 2      | ??? ?? ??? 2023 |
+| DP  - Level 7       |                 | Semester 2      | Fri 10 Nov 2023 |
+| DP  - Level 8       |                 | Semester 2      | Wed 22 Nov 2023 |
+| DP  - Level 9       |                 | Semester 2      | Wed 29 Nov 2023 |
+| DP  - Level 10      |                 | Semester 2      | Wed 06 Dec 2023 |
 | DP  - Final Project |                 | Semester 2      | Wed 20 Dec 2023 |
 
 </details>
@@ -243,10 +243,10 @@ The deadline schedules:
 
 | Level\Pace          | standard        |
 |---------------------|-----------------|
-| DP  - Level 7       | ??? ?? ??? 2023 |
-| DP  - Level 8       | ??? ?? ??? 2023 |
-| DP  - Level 9       | ??? ?? ??? 2023 |
-| DP  - Level 10      | ??? ?? ??? 2023 |
+| DP  - Level 7       | Mon 25 Sep 2023 |
+| DP  - Level 8       | Mon 16 Oct 2023 |
+| DP  - Level 9       | Mon 06 Nov 2023 |
+| DP  - Level 10      | Wed 22 Nov 2023 |
 | DP  - Final Project | Wed 20 Dec 2023 |
 
 </details>
