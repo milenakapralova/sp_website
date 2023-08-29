@@ -1,8 +1,17 @@
 # Observations new website
 
 ## Typos
-* Overview -> Deadlines -> 3rd paragraph -> non instead of none
+* Main page -> Deadlines -> 3rd paragraph -> non instead of none
+* Main page -> Programming modules -> 'Assignments: Bigger programming problems, that require combining multiple programming concepts.' there should not be a comma
 
+## Writing style
+* Main page -> Learning goals -> Data processing -> the bullet points start with 'you' although there's 'you' just before the colon above, so the 'you' on each line should be removed
+* For learning goals, each bullet point should end with a comma and the last bullet point should end with a full stop
+* For the Help section, every bullet point is a sentence, so should end with a full stop
+  
+
+## Content
+* Main page -> Help -> Tutorials -> When describing that students can get help online during the tutorials, it might be useful to stress that there is only one slot per tutorial, and there are many students, so it might not always be available
 
 ## Scheduling
 What if someone wants to follow a standard (8wk) pace for either SP1 or SP2 but start in blok 2? For now we are assuming students would simply start as soon as possible, following either of 3 paces (relaxed, standard, fast).
