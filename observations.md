@@ -21,27 +21,28 @@ These are all the possibilities for SP1 (in bold are the options we are covering
     * start Nov
     * start Dec
   * 8 week plan
-    * start Nov 
-
-These are all the possibilities for SP2:
+    * start Nov
+   
+These are all the possibilities for SP2 (in bold are the options we are covering in planning):
 * Start block 1
-  * start September
-    * finish course in 4 weeks
-  * start October
-    * finish course in 4 weeks  
-  * finish course in 8 weeks
-  * finish course in 16 weeks 
+  * 4 week plan
+    * start Sep
+    * start Oct
+  * 8 week plan
+    * **start Sep**
+  * 16 week plan
+    * **start Sep**
 * Start block 2
-   * start November
-    * finish course in 4 weeks
-  * start December
-    * finish course in 4 weeks
-  * finish course in 8 weeks
+  * 4 week plan
+    * **start Nov**
+    * start Dec
+  * 8 week plan
+    * **start Nov**
 
 These are all the possibilities for DP:
 * Start block 1
-  * finish course in 8 weeks
-  * finish course in 16 weeks 
+  * 8 week plan
+  * **16 week plan** 
 * Start block 2
-  * finish course in 8 weeks
+  * **8 week plan**
  
