@@ -9,18 +9,19 @@ What if someone wants to follow a standard (8wk) pace for either SP1 or SP2 but 
 
 These are all the possibilities for SP1 (in bold are the options we are covering in planning):
 * Start block 1
-  a. start September
-    1. finish course in 4 weeks
-  b. start October
-    2. finish course in 4 weeks  
-  3. finish course in 8 weeks
-  4. finish course in 16 weeks 
+  * 4 week plan
+    * **start Sep**
+    * start Oct
+  * 8 week plan
+    * **start Sep**
+  * 16 week plan
+    * **start Sep**
 * Start block 2
-  c. start November
-    5. finish course in 4 weeks
-  d. start December
-    6. finish course in 4 weeks
-  7. finish course in 8 weeks
+  * 4 week plan
+    * start Nov
+    * start Dec
+  * 8 week plan
+    * start Nov 
 
 These are all the possibilities for SP2:
 * Start block 1
