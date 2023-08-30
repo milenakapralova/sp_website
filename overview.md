@@ -208,9 +208,9 @@ The deadline schedules:
 | SP1 - Level 3       | Fri 08 Dec 2023 | Fri 13 Oct 2023 | Mon 25 Sep 2023 |
 | SP1 - Exam          | Tue 19 Dec 2023 | Mon 23 Oct 2023 | Mon 23 Oct 2023 |
 |---------------------|-----------------|-----------------|-----------------|
-| SP2 - Level 4       | Semester 2      | Fri 03 Nov 2023 | Mon 02 Oct 2023 |
-| SP2 - Level 5       | Semester 2      | Fri 17 Nov 2023 | Mon 09 Oct 2023 |
-| SP2 - Level 6       | Semester 2      | Fri 01 Dec 2023 | Mon 16 Oct 2023 |
+| SP2 - Level 4       | Semester 2      | Fri 10 Nov 2023 | Mon 02 Oct 2023 |
+| SP2 - Level 5       | Semester 2      | Fri 24 Nov 2023 | Mon 09 Oct 2023 |
+| SP2 - Level 6       | Semester 2      | Fri 08 Dec 2023 | Mon 16 Oct 2023 |
 | SP2 - Exam          | Semester 2      | Wed 20 Dec 2023 | Wed 25 Oct 2023 |
 |---------------------|-----------------|-----------------|-----------------|
 | DP  - Level 7       |                 | Semester 2      | Fri 10 Nov 2023 |
