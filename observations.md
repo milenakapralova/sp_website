@@ -5,7 +5,7 @@
 * Main page -> Programming modules -> 'Assignments: Bigger programming problems, that require combining multiple programming concepts.' there should not be a comma (this is true also elsewhere, i.e. under Coursework)
 * Main page -> Description of modules -> Numbers -> missing full stop at the end
 * Main page -> Description of modules -> Acquisition -> for some reason I can see the links as text and not as hyperlinks
-* 
+* On the leaf version of the modules, all levels are indicated by L, only level 3 is 'level', maybe change to L3 for consistency
 
 ## Writing style
 * Main page -> Learning goals -> Data processing -> the bullet points start with 'you' although there's 'you' just before the colon above, so the 'you' on each line should be removed
@@ -15,6 +15,7 @@
 
 ## Content
 * Main page -> Help -> Tutorials -> When describing that students can get help online during the tutorials, it might be useful to stress that there is only one slot per tutorial, and there are many students, so it might not always be available
+* Is the Inhoud/Contents button supposed to take me somewhere? Clicking it doesn't do anything
 
 ## Scheduling
 What if someone wants to follow a standard (8wk) pace for either SP1 or SP2 but start in blok 2? For now we are assuming students would simply start as soon as possible, following either of 3 paces (relaxed, standard, fast).
